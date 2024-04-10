@@ -2,7 +2,7 @@
 
 ## Declaring and Writing Functions
 
-Go uses [[First-class functions]], like many other programming languages. 
+Go uses First-class functions, like many other programming languages. 
 - Go has methods too, but we won't cover them until chapter 7.
 
 Go adds its own twist on function features - some are improvements and others should be avoided.
@@ -17,7 +17,7 @@ Go adds its own twist on function features - some are improvements and others sh
 // and returns the result
 
 func add(a int, b int) int {
-	return a + b
+    return a + b
 }
 ```
 
